@@ -1,0 +1,8 @@
+__pycache__
+*.log
+*.csv
+
+.DS_Store
+
+tm_env
+venv
